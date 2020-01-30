@@ -1,7 +1,7 @@
 # Pipefy Clone (Frontend)
 :camera: Pipefy interface clone for drag and drop study with React
 
-### [Live Demo](http://relirk-pipefy-clone.surge.sh/)
+### [Live Demo](http://relirk-pipefy.surge.sh/)
 
 ![Screenshot 1](pipefy.png)
 
